@@ -1,0 +1,47 @@
+[
+	{
+		"name" : "Black_Angus",
+		"imagePath" : "images/Black_Angus",
+		"details" : "Black Angus is the most common breed of beef cattle in the U.S., with more than 330,000 animals registered. One reason the breed is so popular is their carcass characteristics, which are marketed as yielding well-marbled, flavorful beef. Also, Angus cattle require little maintenance during calving season, are good mothers, and are very feed efficient. The Black Angus cattle breed came to the U.S. in the 19th century and gained its footing in Kansas"
+	},
+	{
+		"name" : "Hereford",
+		"imagePath" : "images/Hereford.jpg",
+		"details" : "Originating in England, Herefords became very popular in the U.S. for their early maturity and fattening ability. Dark red to red yellow in color with a white face, Herefords are known for their longevity, and for being docile, easy calvers, good milkers, and good mothers."
+	},
+	{
+		"name" : "Charolais",
+		"imagePath" : "images/Charolais.jpg",
+		"details" : "It has been said that no other breed has impacted the North American beef industry so significantly as the introduction of Charolais. The Charolais came into widespread use in the United States cattle industry at a time when producers were seeking larger framed, heavier cattle than the traditional British cattle breeds. Charolais are white or creamy white in color and the hair coat is usually short in summer, but thickens and lengthens in cold weather. "
+	},
+	{
+		"name" : "Simmental",
+		"imagePath" : "images/Simmental.jpg",
+		"details" : "The Simmental is among the oldest and most widely distributed of all breeds of cattle in the world. The red and white animals were first introduced to the U.S. in the late 19th century and have been positively influencing the beef community ever since. They have a large body frame, but they require little assistance during calving season and have excellent weight gaining potential."
+	},
+	{
+		"name" : "Red_Angus",
+		"imagePath" : "images/Red_Angus.jpg",
+		"details" : "Not as popular as Black Angus, Red Angus do offer the same valuable carcass characteristics that result in increased marbling and flavor. Red Angus are also a docile cattle breed and possess good mothering traits. They are more tolerant to hot temperatures than black Angus."
+	},
+	{
+		"name" : "Texas_Longhorn",
+		"imagePath" : "images/Texas_Longhorn.jpg",
+		"details" : "The Texas Longhorn is the end product of “survival of the fittest”. Brought by Christopher Columbus and the Spanish colonists, the cattle breed is known for its characteristic horns, which can extend to over 1.8 m tip to tip for bulls, and 2.1 m tip to tip for steers and exceptional cows. Texas Longhorns are known for their diverse coloring, and can be any color or mix of colors, but dark red and white are the most dominant."
+	},
+	{
+		"name" : "Gelbvieh",
+		"imagePath" : "images/Gelbvieh.jpg",
+		"details" : "A European breed introduced to the United States through artificial insemination, the Gelbvieh breed is red in color, with strong skin pigmentation, and horned. Polled cattle have developed in the United States from the use of naturally hornless foundation females. Fans of the breed claim the breed has superior fertility, calving ease, mothering ability, and growth rate of the calves."
+	},
+	{
+		"name" : "Holstein",
+		"imagePath" : "images/Holstein.jpg",
+		"details" : "While the black and white cattle are the most popular breed for dairy, Holsteins not used for breeding stock or milk production are raised for their value as beef cattle. Beef from finished Holstein finished steers has many desirable characteristics and provides a consistent product. Genetic similarity contributes greatly to the consistency of the quality of beef provided by Holsteins."
+	},
+	{
+		"name" : "Highlands",
+		"imagePath" : "images/Highlands.jpg",
+		"details" : "With long horns and a double coat, Highlands require little in the way of shelter, feed supplements, or expensive grains to achieve and maintain good condition and fitness. Cold weather and snow have little effect on them. They have been raised as far north as Alaska and the Scandinavian countries. They also adapt well to the more southerly climates with successful herds as far south as Texas and Georgia. Long lashes and forelocks shield their eyes from flying insects, and as a result, pinkeye and cancer eye are uncommon. Highland beef is meat that is lean, well marbled and flavorful, with little outside waste fat."
+	}
+]
